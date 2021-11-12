@@ -1,5 +1,5 @@
 # fe_interview_daily
-Good good study,Day day up!
+Good good study,Day day up!!!
 
 wxj:
 - [2021/11/11](./wxj/2021.11/2021.11.11.md)
